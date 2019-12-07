@@ -10,4 +10,4 @@ Family members are not allowed to gift for their significant other, so those rel
 After some iterative and conditional magic, we generate the assignments to the console. You can view the progress of the program in the log.
 
 ### How do I run this?
-If you have node installed, run the JavaScript file from the command line. Otherwise, copy the code in the secret_santa.js file, go to jsbin, and click the "Run" button.
+If you have node installed, run the JavaScript file from the command line. Otherwise, copy the code in the secret_santa.js file, go to jsbin, paste into the "JavaScript" pane, and click the "Run" button.
